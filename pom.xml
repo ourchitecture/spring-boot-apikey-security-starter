@@ -6,7 +6,7 @@
 
 	<groupId>ourchitecture</groupId>
 	<artifactId>spring-boot-apikey-security-starter</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 
 	<name>ourchitecture-spring-boot-apikey-security-starter</name>
 	<url>https://github.com/ourchitecture/spring-boot-apikey-security-starter</url>
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>ourchitecture</groupId>
 			<artifactId>spring-boot-apikey-security</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.3-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
