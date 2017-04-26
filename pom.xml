@@ -5,12 +5,12 @@
 	<packaging>jar</packaging>
 
 	<groupId>ourchitecture</groupId>
-	<artifactId>spring-boot-apikey-security-starter</artifactId>
+	<artifactId>spring-boot-starter-security-apikey</artifactId>
 	<!--<version>0.0.3-SNAPSHOT</version>-->
 	<version>0.1.0.RELEASE</version>
 
-	<name>ourchitecture-spring-boot-apikey-security-starter</name>
-	<url>https://github.com/ourchitecture/spring-boot-apikey-security-starter</url>
+	<name>ourchitecture-spring-boot-starter-security-apikey</name>
+	<url>https://github.com/ourchitecture/spring-boot-starter-security-apikey</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,7 +21,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>ourchitecture</groupId>
-			<artifactId>spring-boot-apikey-security</artifactId>
+			<artifactId>spring-boot-security-apikey</artifactId>
 			<version>0.1.0.RELEASE</version>
 		</dependency>
 	</dependencies>
@@ -82,11 +82,11 @@
 	<distributionManagement>
 		<repository>
 			<id>packagecloud-ourchitecture</id>
-			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-apikey-security-starter</url>
+			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-starter-security-apikey</url>
 		</repository>
 		<snapshotRepository>
 			<id>packagecloud-ourchitecture</id>
-			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-apikey-security-starter</url>
+			<url>packagecloud+https://packagecloud.io/ourchitecture/maven/ourchitecture-spring-boot-starter-security-apikey</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
